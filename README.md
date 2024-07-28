@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lazysasha
-- 👀 I’m interested in Logistics, Kotlin, Spring Boot, Data analysis and Machine Learning
+- 👀 I’m interested in Kotlin, Spring Boot, Data analysis and Machine Learning
 - 🌱 I’m currently learning Deep Learning with Tensorflow
-- 💞️ I’m looking to collaborate on Machine Learning and all around it: data preparation, pipelines, hosting etc.
+- 💞️ I’m looking to collaborate on Software Engineering, Machine Learning and all around it: data preparation, pipelines, inference etc.
 - 📫 How to reach me: oleksandr.shynkariuk@gmail.com
 
 <!---
